@@ -1,4 +1,6 @@
-# Webpack5
+# List Editor
 
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
+**GitHub Page** -
+
+[![Build status](https://ci.appveyor.com/api/projects/status/4ppkqomyq8d9ilh6?svg=true)](https://ci.appveyor.com/project/dmiweb/list-editor)
+
